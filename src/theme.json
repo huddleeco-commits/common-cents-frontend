@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "primary": "#22c55e",
+    "secondary": "#15803d",
+    "accent": "#86efac",
+    "text": "#1a1a2e",
+    "background": "#ffffff"
+  },
+  "preset": "Forest"
+}
